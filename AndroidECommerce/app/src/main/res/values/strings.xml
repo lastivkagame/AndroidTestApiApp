@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidECommerce</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Contacts</string>
+    <string name="about_text">ListView</string>
+    <string name="main_scene_text">Main</string>
+    <string name="logo_of_app_1">Shop</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="product_price">Price</string>
+    <string name="load">Load List Products</string>
+</resources>
